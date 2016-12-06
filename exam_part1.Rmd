@@ -1,0 +1,9 @@
+---
+title: "exam_part1"
+author: "Marian Pitel"
+date: "December 6, 2016"
+output: pdf_document
+---
+
+#traditional power analysis for incremental prediction
+I conclude from the result of a traditional power analysis for incremental prediction that a sample size of at least *N* = 75 is needed to ensure that my analysis has a power of .85 for detecting an increment in variance (ie., agreeableness will uniquely predict 10% of the variance in performance scores when in a regression with conscientiousness). 
